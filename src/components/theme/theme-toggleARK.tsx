@@ -85,7 +85,6 @@ export function ThemeToggle({
           className={`
             relative overflow-hidden transition-all duration-200 ease-in-out
             rounded-lg p-2
-            hover:scale-105 active:scale-95
             focus:ring-2 focus:ring-ring focus:ring-offset-2
             ${showLabel ? "gap-2" : "aspect-square"}
           `}

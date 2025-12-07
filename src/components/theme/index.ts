@@ -1,2 +1,2 @@
 export { ThemeProvider, useTheme } from "./theme-provider";
-export { ThemeToggle, ThemeToggleSimple } from "./theme-toggle";
+export { ThemeToggle, ThemeToggleSimple } from "./theme-toggleARK";
